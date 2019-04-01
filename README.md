@@ -1,7 +1,7 @@
 # networkDataAnalysis
 Prepare work:
 1. Downlaod node.js
-2. Open terminal >> type "npm install twit"
+2. Open terminal >> type "npm install twit" for twitter api
 
 Run posterver.js
 Open terminal >> Go to the path of the file >>> run "node postserver.js""
